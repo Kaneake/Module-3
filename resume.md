@@ -2,7 +2,7 @@
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
-## Job 2
+## Job History (but proposed by developer 2)
 
 ### GitHub Trainer
 
